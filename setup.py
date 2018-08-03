@@ -12,7 +12,7 @@ with open('README.md', 'r') as fd:
     long_description = fd.read()
 
 setup(
-    name='clova-cek-sdk',
+    name='clova-cek-sdk-test',
     version=version.version,
     description=description,
     long_description=long_description,
